@@ -27,9 +27,7 @@ Endpoint :
 https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
 Sample Response :
 
-                    [
-
-{
+[{
 "id": "1",
 "name": "Aaron Miles",
 "email": "aaron@mailinator.com",
@@ -46,5 +44,4 @@ Sample Response :
 "name": "Arvind Kumar",
 "email": "arvind@mailinator.com",
 "role": "admin"
-}
-]
+}]
