@@ -1,6 +1,6 @@
-# Geektrust Coding Challenges
+# Geektrust Admin UI Challenge
 
-## Live Demo
+## Project Live URL
 
 ## Challenge URL
 
@@ -17,14 +17,14 @@ https://www.geektrust.com/coding/detailed/admin-ui
 
 ## Provided things :
 
+Users API Endpoint :
+https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
+
 Note :
 The users are sorted by `id` field. There is no alphabetical sorting.
 
 Request Type :
 GET
-
-Endpoint :
-https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
 
 Sample Response :
 
