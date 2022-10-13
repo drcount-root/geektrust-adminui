@@ -50,3 +50,11 @@ Sample Response :
 "role": "admin"
 }]
 ```
+
+## To Start :
+
+To get all the necessary dependencies :
+`npm install`
+
+To start the application :
+`npm start`
