@@ -2,6 +2,8 @@
 
 ## Project Live URL
 
+https://admin-ui-project.netlify.app
+
 ## Challenge URL
 
 https://www.geektrust.com/coding/detailed/admin-ui
